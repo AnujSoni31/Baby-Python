@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe with Computer's Move
 
 board = [' ' for i in range(10)]
 # range() takes (0-9) because the user will give position in (1-9), 0th index will be free.
